@@ -47,17 +47,19 @@
     "versionPublish": "5.5.0",
     "screenshot": "screenshot.png",
     "favicon": false,
-    "mbrsiteDomain": "tfm9iq7rxs",
-    "robotsSwitcher": false,
+    "mbrsiteDomain": "y8qeawommr",
+    "robotsSwitcher": true,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "witsec-language": false,
-    "witsec-white-label": false,
+    "witsec-language": "pt",
+    "witsec-white-label": true,
     "witsec-mailform": false,
-    "site_lang": "undefined"
+    "site_lang": "undefined",
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
+    "global_footer_custom": "<div id=\"rodape\" style=\"position: fixed;  bottom: 0;  left: 0;  width: 100%;\">\n    <section class=\"footer8 cid-sg68errYc\" once=\"footers\" id=\"footer7-2\" style=\"background-color: black;\">\n        <div class=\"container\">\n            <div id=\"idnwe\" class=\"media-container-row align-center mbr-white\">\n                <div class=\"col-12\">\n                    <p class=\"mbr-text mb-0 mbr-fonts-style display-7\">\n                        <a style=\"color:white;\" href=\"https://www.ideianaweb.com.br\" target=\"_blank\"\n                            title=\"Ideia Na Web\" alt=\"Ideia Na Web\">Ideia Na Web</a>\n                    </p>\n                </div>\n            </div>\n        </div>\n    </section>\n</div>"
   },
   "pages": {
     "index.html": {
