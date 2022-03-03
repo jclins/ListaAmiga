@@ -47,11 +47,11 @@
     "versionPublish": "5.5.0",
     "screenshot": "screenshot.png",
     "favicon": false,
-    "mbrsiteDomain": "y8qeawommr",
+    "mbrsiteDomain": "kowtffq7wc",
     "robotsSwitcher": true,
-    "sitemapSwitcher": false,
-    "sitemapSwitcherAuto": false,
-    "siteUrl": false,
+    "sitemapSwitcher": true,
+    "sitemapSwitcherAuto": "on",
+    "siteUrl": "https://lista-amiga.vercel.app/",
     "cookiesAlert": false,
     "gdpr": false,
     "witsec-language": "pt",
@@ -59,7 +59,8 @@
     "witsec-mailform": false,
     "site_lang": "undefined",
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
-    "global_footer_custom": "<div id=\"rodape\" style=\"position: fixed;  bottom: 0;  left: 0;  width: 100%;\">\n    <section class=\"footer8 cid-sg68errYc\" once=\"footers\" id=\"footer7-2\" style=\"background-color: black;\">\n        <div class=\"container\">\n            <div id=\"idnwe\" class=\"media-container-row align-center mbr-white\">\n                <div class=\"col-12\">\n                    <p class=\"mbr-text mb-0 mbr-fonts-style display-7\">\n                        <a style=\"color:white;\" href=\"https://www.ideianaweb.com.br\" target=\"_blank\"\n                            title=\"Ideia Na Web\" alt=\"Ideia Na Web\">Ideia Na Web</a>\n                    </p>\n                </div>\n            </div>\n        </div>\n    </section>\n</div>"
+    "global_footer_custom": "<div id=\"rodape\" style=\"position: fixed;  bottom: 0;  left: 0;  width: 100%;\">\n    <section class=\"footer8 cid-sg68errYc\" once=\"footers\" id=\"footer7-2\" style=\"background-color: black;\">\n        <div class=\"container\">\n            <div id=\"idnwe\" class=\"media-container-row align-center mbr-white\">\n                <div class=\"col-12\">\n                    <p class=\"mbr-text mb-0 mbr-fonts-style display-7\">\n                        <a style=\"color:white;\" href=\"https://www.ideianaweb.com.br\" target=\"_blank\"\n                            title=\"Ideia Na Web\" alt=\"Ideia Na Web\">Ideia Na Web</a>\n                    </p>\n                </div>\n            </div>\n        </div>\n    </section>\n</div>",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-12PJMJE2KQ\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-12PJMJE2KQ');\n</script>"
   },
   "pages": {
     "index.html": {
