@@ -47,7 +47,7 @@
     "versionPublish": "5.5.0",
     "screenshot": "screenshot.png",
     "favicon": false,
-    "mbrsiteDomain": "kowtffq7wc",
+    "mbrsiteDomain": "p9f5zhqapj",
     "robotsSwitcher": true,
     "sitemapSwitcher": true,
     "sitemapSwitcherAuto": "on",
@@ -59,8 +59,9 @@
     "witsec-mailform": false,
     "site_lang": "undefined",
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
-    "global_footer_custom": "<div id=\"rodape\" style=\"position: fixed;  bottom: 0;  left: 0;  width: 100%;\">\n    <section class=\"footer8 cid-sg68errYc\" once=\"footers\" id=\"footer7-2\" style=\"background-color: black;\">\n        <div class=\"container\">\n            <div id=\"idnwe\" class=\"media-container-row align-center mbr-white\">\n                <div class=\"col-12\">\n                    <p class=\"mbr-text mb-0 mbr-fonts-style display-7\">\n                        <a style=\"color:white;\" href=\"https://www.ideianaweb.com.br\" target=\"_blank\"\n                            title=\"Ideia Na Web\" alt=\"Ideia Na Web\">Ideia Na Web</a>\n                    </p>\n                </div>\n            </div>\n        </div>\n    </section>\n</div>",
-    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-12PJMJE2KQ\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-12PJMJE2KQ');\n</script>"
+    "global_footer_custom": "<div id=\"rodape\" style=\"position: fixed;  bottom: 0;  left: 0;  width: 100%;\">\n    <section class=\"footer8 cid-sg68errYc\" once=\"footers\" id=\"footer7-2\" style=\"background-color: black;\">\n        <div class=\"container\">\n            <div id=\"idnwe\" class=\"media-container-row align-center mbr-white\">\n                <div class=\"col-12\">\n                    <p class=\"mbr-text mb-0 mbr-fonts-style display-7\">\n                        <a style=\"color:white;\" href=\"https://www.ideianaweb.com.br\" target=\"_blank\"\n                            title=\"Ideia Na Web\" alt=\"Ideia Na Web\">Ideia Na Web</a>\n                    </p>\n                </div>\n            </div>\n        </div>\n    </section>\n</div>\n",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-12PJMJE2KQ\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-12PJMJE2KQ');\n</script>",
+    "global_after_body": ""
   },
   "pages": {
     "index.html": {
@@ -497,7 +498,7 @@
           },
           "_name": "custom-html",
           "_sourceTheme": "mobirise5",
-          "_customHTML": "<section mbr-id=\"_anchor\" class=\"mbr-section article content1\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#fafafa\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-12\">\n                <h2 class=\"mbr-fonts-style block-title align-center\" data-app-selector=\".block-title\" mbr-theme-style=\"display-2\">LISTA AMIGA CHRISTIANO LINS</h2>\n\t\t\t\t<iframe src=\"https://calendar.google.com/calendar/embed?src=un1jc766g29ggld35e533rsg48%40group.calendar.google.com&ctz=America%2FSao_Paulo\" style=\"border: 0\" width=\"800\" height=\"600\" frameborder=\"0\" scrolling=\"no\"></iframe>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section mbr-id=\"_anchor\" class=\"mbr-section article content1\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#fafafa\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-12\">\n                <h2 class=\"mbr-fonts-style block-title align-center\" data-app-selector=\".block-title\" mbr-theme-style=\"display-2\">LISTA AMIGA CHRISTIANO LINS</h2>\n\t\t\t\t<iframe id=\"gcalendar\" src=\"https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FSao_Paulo&showCalendars=0&showPrint=0&showDate=1&src=dW4xamM3NjZnMjlnZ2xkMzVlNTMzcnNnNDhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23F4511E\" style=\"border:solid 1px #777\" width=\"700\" height=\"600\" frameborder=\"0\" scrolling=\"no\"></iframe>\n            </div>\n        </div>\n    </div>\n</section>\n",
           "_cid": "sZ1SZcQf0t",
           "_anchor": "custom-html-1",
           "_PHPplaceholders": [],
