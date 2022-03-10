@@ -47,7 +47,7 @@
     "versionPublish": "5.5.0",
     "screenshot": "screenshot.png",
     "favicon": false,
-    "mbrsiteDomain": "p9f5zhqapj",
+    "mbrsiteDomain": "ywe51gya20",
     "robotsSwitcher": true,
     "sitemapSwitcher": true,
     "sitemapSwitcherAuto": "on",
@@ -61,7 +61,8 @@
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
     "global_footer_custom": "<div id=\"rodape\" style=\"position: fixed;  bottom: 0;  left: 0;  width: 100%;\">\n    <section class=\"footer8 cid-sg68errYc\" once=\"footers\" id=\"footer7-2\" style=\"background-color: black;\">\n        <div class=\"container\">\n            <div id=\"idnwe\" class=\"media-container-row align-center mbr-white\">\n                <div class=\"col-12\">\n                    <p class=\"mbr-text mb-0 mbr-fonts-style display-7\">\n                        <a style=\"color:white;\" href=\"https://www.ideianaweb.com.br\" target=\"_blank\"\n                            title=\"Ideia Na Web\" alt=\"Ideia Na Web\">Ideia Na Web</a>\n                    </p>\n                </div>\n            </div>\n        </div>\n    </section>\n</div>\n",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-12PJMJE2KQ\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-12PJMJE2KQ');\n</script>",
-    "global_after_body": ""
+    "global_after_body": "",
+    "global_header_custom": "<meta property=\"og:site_name\" content=\"Lista Amiga\">\n<meta property=\"og:title\" content=\"Lista Amiga Christiano Lins\">\n<meta property=\"og:description\" content=\"Mais cultura, mais emoção para você. Lista Amiga Christiano Lins - Shows e Peças de Teatro\">\n<meta property=\"og:image:secure_url\" itemprop=\"image\" content=\"https://lista-amiga.vercel.app/assets/images/lista-amiga-500x545.jpg\">\n<meta property=\"og:type\" content=\"website\">\n<!--<meta property=”og:image”content=”https://lista-amiga.vercel.app/assets/images/lista-amiga-500x545.jpg“/>-->"
   },
   "pages": {
     "index.html": {
